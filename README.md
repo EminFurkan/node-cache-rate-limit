@@ -1,5 +1,5 @@
 # node-cache-rate-limit
-Simple Node/Express app implementing basic usage of a backend service as a middileware API that communicates with the endpoints, Redis for caching and express-rate-limit for rate limiting. 
+Simple Node/Express app implementing basic usage of a backend service as a middleware API that communicates with the endpoints, Redis for caching and express-rate-limit for rate limiting. 
 
 cd node-cache-rate-limit
 
